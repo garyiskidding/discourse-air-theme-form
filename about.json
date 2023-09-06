@@ -1,5 +1,5 @@
 {
-  "name": "Air Theme",
+  "name": "Air Theme Form",
   "about_url": null,
   "license_url": null,
   "components": [
@@ -26,7 +26,7 @@
     "air-dark": {
       "primary": "e0e0e0",
       "secondary": "2d2d2d",
-      "tertiary": "9a5cfd",
+      "tertiary": "1f49e0",
       "quaternary": "71bd9f",
       "header_background": "202020",
       "header_primary": "e0e0e0",
